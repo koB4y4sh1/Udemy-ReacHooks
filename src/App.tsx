@@ -14,7 +14,9 @@
 // import Lesson6_1 from './components/Lesson6/Lesson6-1.tsx';
 // import Lesson7_1 from './components/Lesson7/Lesson7-1.tsx';
 // import Lesson7_2 from './components/Lesson7-2/Lesson7-2.tsx';
-import Lesson7_3 from './components/Lesson7-3/Lesson7-3.tsx';
+// import Lesson7_3 from './components/Lesson7-3/Lesson7-3.tsx';
+// import Lesson8_1 from './components/Lesson8-1/Lesson8-1.tsx';
+import Lesson8_2 from './components/Lesson8-2/Lesson8-2.tsx';
 function App() {
   return (
     <div>
@@ -34,7 +36,9 @@ function App() {
       {/* <Lesson6_1 /> */}
       {/* <Lesson7_1 /> */}
       {/* <Lesson7_2 /> */}
-      <Lesson7_3 />
+      {/* <Lesson7_3 /> */}
+      {/* <Lesson8_1 /> */}
+      <Lesson8_2 />
     </div>
   );
 }
